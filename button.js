@@ -1,9 +1,10 @@
-// button.js
 export default {
   appearance: 'none',
   backgroundColor: 'transparent',
   border: 'none',
   boxSizing: 'border-box',
+  fontFamily: 'inherit',
+  fontSize: '100%',
   lineHeight: '1',
   outline: 'none',
   padding: '0',
